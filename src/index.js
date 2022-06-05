@@ -8,12 +8,3 @@ root.render(
         <App />
     </React.StrictMode>
 );
-
-//Method 2
-
-// ReactDOM.render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>,
-//   document.getElementById('root')
-// );
