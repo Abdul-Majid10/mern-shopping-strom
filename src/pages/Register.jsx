@@ -3,7 +3,7 @@ import { mobile } from "../responsive";
 
 const Container = styled.div`
     width: 100vw;
-    height: auto;
+    min-height: 100vh;
     background: linear-gradient(
             rgba(255, 255, 255, 0.5),
             rgba(255, 255, 255, 0.5)
